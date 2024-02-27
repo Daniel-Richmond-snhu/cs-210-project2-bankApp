@@ -22,7 +22,7 @@ This C++ program is designed to help users understand the potential growth of th
 - **Use of Object-Oriented Programming**: Adopting OOP principles, such as encapsulating investment details in a class, could enhance code organization and scalability.
 - **Performance Optimization**: Exploring more efficient calculation methods or data structures could improve the program's performance, especially for complex scenarios.
 
-## Reflection
+## Reflection:
 
 ### Challenges and Solutions:
 
